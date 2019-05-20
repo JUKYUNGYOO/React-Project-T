@@ -1,5 +1,5 @@
 ## Management System
-본 프로젝트는 React로 만들어진 고객관리시스템 입니다. 
+본 프로젝트는 React로 만들어진 고객관리시스템(Management System) 입니다. 
 
 
 
